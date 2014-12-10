@@ -1,7 +1,7 @@
 package sample;
 import java.util.Scanner;
 
-public class PaizaC10 {
+public class PaizaC010 {
 
 	public static void main (String[] args) {
 

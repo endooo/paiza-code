@@ -6,7 +6,7 @@ import java.util.Scanner;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-public class PaizaC06 {
+public class PaizaC006 {
 
     public static void main(String[] args) {
         // TODO 自動生成されたメソッド・スタブ
